@@ -29,7 +29,6 @@ Fundador da DEF CON em Caxias do Sul (DCG5554). https://dcg5554.org
 * ⌨ Hacking
 * 🛰 SDR
 * 🛰 Satellites (Satélites)
-* 🚁 Drones
 
 ### Contacts / Contatos
 
