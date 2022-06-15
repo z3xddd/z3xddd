@@ -1,4 +1,4 @@
-<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com/?duration=03&font=Lalezar&size=30&color=red&center=true&vCenter=true&width=440&lines=Kill%20All%20Humans%20:P"/></h1>
+<center><h1><img width="80%" src="https://readme-typing-svg.herokuapp.com/?duration=03&font=Lalezar&size=30&color=red&center=true&vCenter=true&width=440&lines=Kill%20All%20Humans%20:P"/></h1></center>
 
 ### Hello There!
 
