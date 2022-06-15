@@ -1,3 +1,5 @@
+<h1><img src="https://readme-typing-svg.herokuapp.com/?duration=03&font=Lalezar&size=30&color=green&center=true&vCenter=true&width=440&lines=Kill%20All%20Humans%20:P"/></h1>
+
 ![Banner](https://dcg5554.org/banner.jpg)
 
 ### Hello There!
