@@ -12,16 +12,6 @@ Israel C. dos Reis, nascido em 22 de março de 1996 em Caxias do Sul (Rio Grande
 
 Fundador da DEF CON em Caxias do Sul (DCG5554). https://dcg5554.org
 
-### ✨ Github Stats ✨
-<center>
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-      <td><img width="360px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3xddd&hide=html&layout=compact&theme=dracula&langs_count=10" /></td>
-      <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api?username=z3xddd&theme=dracula&show_icons=true" /></td>
-  </tr>  
-</table>
-</center>
-
 ### 👍 LIKES 👍
 
 * ⌨ Games (Jogos)
