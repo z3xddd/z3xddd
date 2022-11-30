@@ -25,3 +25,4 @@ Fundador da DEF CON em Caxias do Sul (DCG5554). https://dcg5554.org
 * Site: https://dcg5554.org
 * YouTube: https://www.youtube.com/channel/UCLBO8b1RMsUfZEqQcWdj6Ng
 * LinkedIn: https://www.linkedin.com/in/israel-comazzetto-dos-reis/
+* Telegram: @z3xddd
