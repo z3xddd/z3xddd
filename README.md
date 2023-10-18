@@ -1,5 +1,3 @@
-<center><h1><img width="80%" src="https://readme-typing-svg.herokuapp.com/?duration=03&font=Lalezar&size=30&color=red&center=true&vCenter=true&width=440&lines=Kill%20All%20Humans%20:P"/></h1></center>
-
 ### Hello There!
 
 Israel C. dos Reis, born March, 22 of 1996 in Caxias do Sul (Rio Grande do Sul / Brazil). Israel is passionate about technology, especially hacking, games and satellites.
