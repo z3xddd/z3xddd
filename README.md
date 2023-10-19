@@ -12,6 +12,7 @@ Israel C. dos Reis, nascido em 22 de março de 1996 em Caxias do Sul (Rio Grande
 * ⌨ eMAPT (eLearnSecurity Mobile Aplication Penetration Tester)
 * ⌨ eWPTX v2 (eLearnSecurity Web Aplication Penetration Tester eXtreme)
 * ⌨ SCMP|A (Sec4US Certified Mobile Pentester Android)
+* ⌨ OSWE (Offensive Security Web Expert)  
 
 ### 👍 LIKES 👍
 
