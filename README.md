@@ -18,6 +18,8 @@ Penetration Tester and Red Team Operator, passionate about cracking advanced def
 
 ## 💀 CVEs
 
+- 🏴‍☠️ **CVE-2025-56566**
+- 🏴‍☠️ **CVE-2025-56565**
 - 🏴‍☠️ **CVE-2025-56563**
 - 🏴‍☠️ **CVE-2024-26487**
 - 🏴‍☠️ **CVE-2024-26486**
