@@ -16,9 +16,17 @@ Penetration Tester and Red Team Operator, passionate about cracking advanced def
 
 ---
 
+## 💀 CVEs
+
+- 🏴‍☠️ **CVE-2025-56563**
+- 🏴‍☠️ **CVE-2024-26487**
+- 🏴‍☠️ **CVE-2024-26486**
+
+---
+
 ## 💡 Interests
 
-- 🎮 Gaming & Game Security  
+- 🎮 Gaming
 - 🧠 Programming & Reverse Engineering  
 - 🛡️ Hacking & Offensive Research  
 - 🛰️ SDR, Satellites & LEO Communications  
