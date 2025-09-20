@@ -11,8 +11,9 @@ Penetration Tester and Red Team Operator, passionate about cracking advanced def
 - ✅ **eMAPT** — eLearnSecurity Mobile Application Penetration Tester  
 - ✅ **eWPTX v2** — eLearnSecurity Web Application Penetration Tester eXtreme  
 - ✅ **SCMP|A** — Sec4US Certified Mobile Pentester Android  
-- ✅ **OSWE** — Offensive Security Web Expert  
 - ✅ **SCWAP** — Sec4US Certified Web API Pentester  
+- ✅ **OSWE** — Offensive Security Web Expert
+- ✅ **OSEP** — Offensive Security Experienced Penetration Tester
 
 ---
 
